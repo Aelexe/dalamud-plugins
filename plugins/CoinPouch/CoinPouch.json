@@ -1,0 +1,13 @@
+{
+	"Author": "Aelexe",
+	"Name": "Coin Pouch",
+	"InternalName": "CoinPouch",
+	"AssemblyVersion": "0.0.1.0",
+	"Description": "Displays alerts for currencies based on configurable thresholds.",
+	"ApplicableVersion": "any",
+	"RepoUrl": "https://github.com/Aelexe/coin-pouch",
+	"Tags": ["plugin", "currency", "tomestones", "utility", "other"],
+	"DalamudApiLevel": 6,
+	"LoadPriority": 0,
+	"Punchline": "Displays alerts for currencies based on configurable thresholds."
+}
