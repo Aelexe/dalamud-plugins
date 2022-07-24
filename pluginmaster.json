@@ -16,6 +16,7 @@
 		"DownloadCount": 0,
 		"CategoryTags": ["plugin", "currency", "tomestones", "utility", "other"],
 		"LastUpdate": "1650050604",
+		"IconUrl": "https://raw.githubusercontent.com/Aelexe/coin-pouch/master/icon.png",
 		"DownloadLinkInstall": "https://raw.githubusercontent.com/Aelexe/dalamud-plugins/master/plugins/CoinPouch/latest.zip",
 		"DownloadLinkUpdate": "https://raw.githubusercontent.com/Aelexe/dalamud-plugins/master/plugins/CoinPouch/latest.zip"
 	}
