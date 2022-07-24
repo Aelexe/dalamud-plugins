@@ -2,7 +2,7 @@
   "Author": "Aelexe",
   "Name": "Coin Pouch",
   "InternalName": "CoinPouch",
-  "AssemblyVersion": "0.0.1.0",
+  "AssemblyVersion": "0.0.2",
   "Description": "Displays alerts for currencies based on configurable thresholds.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Aelexe/coin-pouch",
